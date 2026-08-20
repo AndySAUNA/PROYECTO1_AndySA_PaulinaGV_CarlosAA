@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
+	<Project ProjectId="dfca71e5-652a-456f-8fe3-64479732a997" Name="Nombre del proyecto" LogicalCircuitId="28f8d810-3f2e-45ca-8d89-8a4541acab5f" />
+	<LogicalCircuit LogicalCircuitId="28f8d810-3f2e-45ca-8d89-8a4541acab5f" Name="Principal" Notation="Principal" />
+</CircuitProject>
