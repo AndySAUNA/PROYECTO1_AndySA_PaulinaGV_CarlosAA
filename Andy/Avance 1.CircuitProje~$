@@ -11,10 +11,9 @@
 	<LogicalCircuit LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" Name="Celda 64 bits" Notation="C64b" Category="Celdas de memoria" />
 	<LogicalCircuit LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" Name="Pantalla" Notation="Pantalla" />
 	<LogicalCircuit LogicalCircuitId="9aa8384c-d999-412e-ba85-ecf5c509c5d4" Name="Seguro SR" Notation="SR" Category="Celdas de memoria" />
-	<LogicalCircuit LogicalCircuitId="84711c03-8257-446e-9342-d716f24f79ee" Name="pantalla de coordenadas 8x8" Notation="Pancor" CircuitShape="Display" />
+	<LogicalCircuit LogicalCircuitId="84711c03-8257-446e-9342-d716f24f79ee" Name="pantalla de coordenadas 8x8" Notation="Pancor" Category="Adicionales" CircuitShape="Display" />
 	<LogicalCircuit LogicalCircuitId="43c2ad0d-ad9d-48e2-8cc1-8793a62c410d" Name="Selector numero decimal para 7-seg" Notation="decimal 7-seg" Category="Codificador" />
-	<LogicalCircuit LogicalCircuitId="9d8dc90d-6f04-4b95-b738-d6ec5fc90515" Name="Circuito" Notation="Circuito" />
-	<LogicalCircuit LogicalCircuitId="c8def1cd-e7fd-4625-962f-ef7df0309e8f" Name="Botones" Notation="Botones" CircuitShape="Display" />
+	<LogicalCircuit LogicalCircuitId="c8def1cd-e7fd-4625-962f-ef7df0309e8f" Name="Botones" Notation="Botones" Category="Adicionales" CircuitShape="Display" />
 	<LogicalCircuit LogicalCircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="Codificador 16-&gt;4" Notation="Cod 16-&gt;4" Category="Codificador" />
 	<LogicalCircuit LogicalCircuitId="4fff7478-d1f1-4038-9142-b7f40989168f" Name="Latch-D" Notation="Latch-D" Category="Celdas de memoria" />
 	<Pin PinId="a93e89bf-8b9b-4b58-8541-d3a3a7da7792" CircuitId="49cfbc15-7448-4bb6-ae12-7a6326d002f1" PinSide="Top" Name="R" />
