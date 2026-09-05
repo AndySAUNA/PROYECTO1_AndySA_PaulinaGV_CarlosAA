@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="0.7000000000000001" Frequency="1" LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" />
-	<LogicalCircuit LogicalCircuitId="325835d9-4b9c-4708-966a-fea92070f2af" Name="Principal" Notation="Principal" />
+	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="0.7000000000000001" Frequency="1" LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" />
 	<LogicalCircuit LogicalCircuitId="bf896835-5edb-4370-b2f6-9c036e7dec30" Name="Flip Flop-JK" Notation="FF-JK" Category="Celdas de memoria" />
 	<LogicalCircuit LogicalCircuitId="49cfbc15-7448-4bb6-ae12-7a6326d002f1" Name="Celda 2 bit" Notation="C2b" Category="Celdas de memoria" />
 	<LogicalCircuit LogicalCircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" Name="Celda 4 bits" Notation="C4b" Category="Celdas de memoria" />
@@ -11,9 +10,7 @@
 	<LogicalCircuit LogicalCircuitId="653f1c60-9f45-46f1-9b88-f6b9bf3d7111" Name="Celda de 32 bits" Notation="C32b" Category="Celdas de memoria" />
 	<LogicalCircuit LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" Name="Celda 64 bits" Notation="C64b" Category="Celdas de memoria" />
 	<LogicalCircuit LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" Name="Pantalla" Notation="Pantalla" />
-	<LogicalCircuit LogicalCircuitId="7cbf7989-78da-46cc-8184-f729a0f2e994" Name="Circuito" Notation="Circuito" />
 	<LogicalCircuit LogicalCircuitId="9aa8384c-d999-412e-ba85-ecf5c509c5d4" Name="Seguro SR" Notation="SR" Category="Celdas de memoria" />
-	<LogicalCircuit LogicalCircuitId="150e9e0f-adf6-42bf-b88e-aa490e0c3de7" Name="Circuito1" Notation="Circuito1" />
 	<Pin PinId="a93e89bf-8b9b-4b58-8541-d3a3a7da7792" CircuitId="49cfbc15-7448-4bb6-ae12-7a6326d002f1" PinSide="Top" Name="R" />
 	<Pin PinId="11edd229-f153-45dc-839f-0bf14a66c8bd" CircuitId="49cfbc15-7448-4bb6-ae12-7a6326d002f1" Name="X" />
 	<Pin PinId="3dd4f18b-7c8e-4f07-a76d-7e32d29c739c" CircuitId="49cfbc15-7448-4bb6-ae12-7a6326d002f1" PinType="Output" PinSide="Right" Name="Q" />
