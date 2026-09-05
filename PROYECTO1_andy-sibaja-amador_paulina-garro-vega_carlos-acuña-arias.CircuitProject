@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="dfca71e5-652a-456f-8fe3-64479732a997" Name="Nombre del proyecto" LogicalCircuitId="28f8d810-3f2e-45ca-8d89-8a4541acab5f" />
+	<Project ProjectId="dfca71e5-652a-456f-8fe3-64479732a997" Name="Nombre del proyecto" LogicalCircuitId="2e9c24b3-4e91-40f3-988f-93648c222698" />
 	<LogicalCircuit LogicalCircuitId="28f8d810-3f2e-45ca-8d89-8a4541acab5f" Name="Principal" Notation="Principal" />
+	<LogicalCircuit LogicalCircuitId="2e9c24b3-4e91-40f3-988f-93648c222698" Name="Circuito" Notation="Circuito" />
 </CircuitProject>
