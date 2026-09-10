@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="a7c0148d-8065-4934-807e-3d502964fc91" Name="Nombre del proyecto" Zoom="1.4000000000000004" LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" />
+	<Project ProjectId="a7c0148d-8065-4934-807e-3d502964fc91" Name="Nombre del proyecto" Zoom="1.4000000000000004" LogicalCircuitId="4974890f-8706-4263-955c-319007ad8a6b" />
 	<LogicalCircuit LogicalCircuitId="b1fc36e6-b300-469a-b23f-c6a5868b61cd" Name="Principal" Notation="Principal" />
 	<LogicalCircuit LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" Name="Prueba Pantalla" Notation="Prueba Pantalla" />
 	<LogicalCircuit LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" Name="Celda 64 bits" Notation="C64b" Category="Celdas de memoria" />
@@ -48,9 +48,9 @@
 	<Pin PinId="73984b68-c947-4bfc-b26b-60a16d53b149" CircuitId="653f1c60-9f45-46f1-9b88-f6b9bf3d7111" PinType="Output" PinSide="Bottom" Name="gato" />
 	<Pin PinId="cc7f8bf3-471e-4fa2-a36a-0122c644a57a" CircuitId="653f1c60-9f45-46f1-9b88-f6b9bf3d7111" Name="X" />
 	<Pin PinId="cc844e6e-457b-4c85-827c-162a0863e038" CircuitId="653f1c60-9f45-46f1-9b88-f6b9bf3d7111" PinSide="Top" Name="R3" />
-	<Pin PinId="806ec434-caba-4b0d-b7dd-a57c3a1d033a" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R3" />
-	<Pin PinId="a8326c60-15de-46eb-b1ba-942ab536a120" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R2" />
-	<Pin PinId="01efe338-c740-497f-bf5e-5e080587d723" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" Name="X" />
+	<Pin PinId="806ec434-caba-4b0d-b7dd-a57c3a1d033a" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R3" JamNotation="R3" />
+	<Pin PinId="a8326c60-15de-46eb-b1ba-942ab536a120" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R2" JamNotation="R2" />
+	<Pin PinId="01efe338-c740-497f-bf5e-5e080587d723" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" Name="X" JamNotation="X" />
 	<Pin PinId="4873b987-1d57-4a0c-8622-2e441324a458" CircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" PinType="Output" PinSide="Right" Name="Q3" />
 	<Pin PinId="d28b4be5-43ee-41b6-b150-42218f1236d6" CircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" PinType="Output" PinSide="Bottom" Name="gato" />
 	<Pin PinId="d3b02cd2-e323-4eac-b6a4-81f17c535e8f" CircuitId="bf896835-5edb-4370-b2f6-9c036e7dec30" PinSide="Top" Name="Gato" />
@@ -86,15 +86,15 @@
 	<Pin PinId="d1ef9cd8-a289-4224-8704-f6155e2bc36c" CircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" PinSide="Top" Name="R2" />
 	<Pin PinId="269c511d-3bbb-400a-973a-0cad22ac44b4" CircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" PinType="Output" PinSide="Bottom" Name="r" />
 	<Pin PinId="0e3961a9-d636-419d-a5d9-f6d8b808f7c3" CircuitId="d6b48a8c-c4cf-466f-9001-6eeb96118b72" PinType="Output" PinSide="Right" Name="Q2" />
-	<Pin PinId="bc748211-80ca-41f6-ba5a-50b9b2014849" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="gato" />
-	<Pin PinId="2a1ed0ab-c431-484d-9fd2-b4abd1b38ec0" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R" />
-	<Pin PinId="7561cedb-fff7-4588-930f-2b5b1de5fde8" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r" />
-	<Pin PinId="206fba9b-c31a-4963-83bc-2fa16a169339" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="Gato" />
-	<Pin PinId="ef5747ae-38a6-483d-94e6-acdaa32e2a7b" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" BitWidth="8" PinType="Output" PinSide="Right" Name="Q" />
-	<Pin PinId="19bc16aa-2999-4870-a368-6c26a7514b04" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Bottom" Name="clr" />
-	<Pin PinId="b76f611c-45a5-427d-a47c-1dfafb002cb7" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R1" />
-	<Pin PinId="297401f7-1484-458f-a0f4-0cac2cb82097" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r1" />
-	<Pin PinId="2f1a77c3-4dcb-454b-9344-3852a99b59cd" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r2" />
+	<Pin PinId="bc748211-80ca-41f6-ba5a-50b9b2014849" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="gato" JamNotation="gato" />
+	<Pin PinId="2a1ed0ab-c431-484d-9fd2-b4abd1b38ec0" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R" JamNotation="R" />
+	<Pin PinId="7561cedb-fff7-4588-930f-2b5b1de5fde8" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r" JamNotation="r" />
+	<Pin PinId="206fba9b-c31a-4963-83bc-2fa16a169339" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="Gato" JamNotation="Gato" />
+	<Pin PinId="ef5747ae-38a6-483d-94e6-acdaa32e2a7b" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" BitWidth="8" PinType="Output" PinSide="Right" Name="Q" JamNotation="Q" />
+	<Pin PinId="19bc16aa-2999-4870-a368-6c26a7514b04" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Bottom" Name="clr" JamNotation="clr" />
+	<Pin PinId="b76f611c-45a5-427d-a47c-1dfafb002cb7" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinSide="Top" Name="R1" JamNotation="R1" />
+	<Pin PinId="297401f7-1484-458f-a0f4-0cac2cb82097" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r1" JamNotation="r1" />
+	<Pin PinId="2f1a77c3-4dcb-454b-9344-3852a99b59cd" CircuitId="d4554139-fed5-4e79-b8af-b8ce44d9b2ce" PinType="Output" PinSide="Bottom" Name="r2" JamNotation="r2" />
 	<Pin PinId="90bd0ceb-0815-4002-962a-32ec5dd21f31" CircuitId="fdc16b68-3a2c-4230-8e2d-eb9c5f633f6d" PinSide="Top" Name="R3" />
 	<Pin PinId="2bc0fbc8-14b7-4b4f-923c-a9bfb933b8d9" CircuitId="fdc16b68-3a2c-4230-8e2d-eb9c5f633f6d" PinSide="Bottom" Name="clr" />
 	<Pin PinId="fe3c2bfe-f3d5-4e29-b068-8ecbd3516a53" CircuitId="fdc16b68-3a2c-4230-8e2d-eb9c5f633f6d" PinType="Output" PinSide="Bottom" Name="r1" />
@@ -123,7 +123,7 @@
 	<Pin PinId="ec2b06c6-7cea-4369-888d-f0335fc47542" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" BitWidth="8" PinType="Output" PinSide="Right" Name="Q6" />
 	<Pin PinId="7c03337b-f9fc-4645-a397-17e517092a1a" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" BitWidth="8" PinType="Output" PinSide="Right" Name="Q7" />
 	<Pin PinId="470ead71-868a-4648-8498-70e068d18e5b" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" PinType="Output" PinSide="Bottom" Name="r4" />
-	<Pin PinId="c300b508-476b-43ab-af0d-f853585fcf48" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" PinSide="Top" Name="R6" />
+	<Pin PinId="c300b508-476b-43ab-af0d-f853585fcf48" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" PinSide="Top" Name="R6" Note="R6" />
 	<Pin PinId="ad661fa0-d16d-431a-ace0-03871cd79904" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" PinType="Output" PinSide="Bottom" Name="r5" />
 	<Pin PinId="9a3a96e4-282d-4e85-b8a9-f6bd726f9b1d" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" PinSide="Top" Name="R5" />
 	<Pin PinId="83e6ce78-012b-4873-8d4b-72ec6e7c40e1" CircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" BitWidth="8" PinType="Output" PinSide="Right" Name="Q5" />
@@ -190,11 +190,11 @@
 	<Pin PinId="02bb02bc-065c-4164-8344-7738cda35975" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x12" />
 	<Pin PinId="93ab6c9c-ff29-4bbe-9ede-472ab02c272e" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x13" />
 	<Pin PinId="978bda93-5ea9-4952-8630-4644d15855da" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x15" />
-	<Pin PinId="95720497-4279-491f-9bcd-52c68aeec6b2" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q" />
-	<Pin PinId="1e96f378-2192-43f7-abe6-e99ea9ef793c" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q3" />
+	<Pin PinId="95720497-4279-491f-9bcd-52c68aeec6b2" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q" JamNotation="q" />
+	<Pin PinId="1e96f378-2192-43f7-abe6-e99ea9ef793c" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q3" JamNotation="q3" />
 	<Pin PinId="55193a8b-5c73-404e-b01c-463a2aadd0ad" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x14" />
-	<Pin PinId="779b53d4-acf8-42af-96f0-78643f0845b4" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q1" />
-	<Pin PinId="fae874d8-1b50-4631-baf3-fd00fc176f36" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q2" />
+	<Pin PinId="779b53d4-acf8-42af-96f0-78643f0845b4" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q1" JamNotation="q1" />
+	<Pin PinId="fae874d8-1b50-4631-baf3-fd00fc176f36" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" PinType="Output" PinSide="Right" Name="q2" JamNotation="q2" />
 	<Pin PinId="5aff87a4-b335-49e6-b7d8-6b6857f3d72d" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x2" />
 	<Pin PinId="44c8da48-d472-42a6-8d2d-e336614f05e7" CircuitId="4974890f-8706-4263-955c-319007ad8a6b" Name="x11" />
 	<Pin PinId="cc8ecea7-e96b-4457-80e4-a00b2ae7f968" CircuitId="c8def1cd-e7fd-4625-962f-ef7df0309e8f" PinType="Output" PinSide="Right" Name="q3" />
@@ -2237,4 +2237,5 @@
 	<TextNote TextNoteId="5ac66752-7454-42a3-9c87-1f3ec1d3a484" LogicalCircuitId="653f1c60-9f45-46f1-9b88-f6b9bf3d7111" X="1" Y="1" Width="44" Height="16" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph&gt;Esta es la celda de 32 bits, usa dos celdas hijas de 16 bits&lt;/Paragraph&gt;&lt;Paragraph&gt;Recibe 6 pines de registro, el primero selecciona la celda y los otros cinco se alimentan a las celdas hijas de 16 bits,&lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot;&gt;Recibe un pin de Gatillo que junto con el pin de registro de selección habilita el gatillo para las celdas hijas &lt;/Paragraph&gt;&lt;Paragraph&gt;Recibe un pin de escritura a la izquierda&lt;/Paragraph&gt;&lt;Paragraph&gt;Tiene 5 pines de salida inferior para pasar el registro y el gatillo a la celda hermana&lt;/Paragraph&gt;&lt;Paragraph&gt;Tiene un pin de entrada inferior para limpiar todas las celdas&lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot;&gt;Tiene 4 pines de salida a la derecha divididos con longitud de 8 bits para la salida de información &lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot; /&gt;&lt;/FlowDocument&gt;" />
 	<TextNote TextNoteId="c25dd199-e134-4fc9-b6ed-0f38e378b5f8" LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" X="4" Y="2" Width="52" Height="15" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph&gt;Esta es la celda de 64 bits, usa dos celdas hijas de 32 bits&lt;/Paragraph&gt;&lt;Paragraph&gt;Recibe 7 pines de registro, el primero selecciona la celda y los otros seis se alimentan a las celdas hijas de 32 bits,&lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot;&gt;Recibe un pin de Gatillo que junto con el pin de registro de selección habilita el gatillo para las celdas hijas &lt;/Paragraph&gt;&lt;Paragraph&gt;Recibe un pin de escritura a la izquierda&lt;/Paragraph&gt;&lt;Paragraph&gt;Tiene 6 pines de salida inferior para pasar el registro y el gatillo a la celda hermana&lt;/Paragraph&gt;&lt;Paragraph&gt;Tiene un pin de entrada inferior para limpiar todas las celdas&lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot;&gt;Tiene 8 pines de salida a la derecha divididos con longitud de 8 bits para la salida de información &lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot; /&gt;&lt;/FlowDocument&gt;" />
 	<TextNote TextNoteId="f843c74b-a743-4be9-aaf6-de16b800a69d" LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" X="6" Y="8" Width="33" Height="5" Note="&lt;FlowDocument TextAlignment=&quot;Left&quot; PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph&gt;&lt;Run xml:lang=&quot;es-cr&quot;&gt;debe prender SELE, Gato y Escribe para que dibuje, luego le da a las teclas para coordenadas&lt;/Run&gt;&lt;LineBreak /&gt;&lt;Run xml:lang=&quot;es-cr&quot; xml:space=&quot;preserve&quot; /&gt;&lt;LineBreak /&gt;&lt;Run xml:lang=&quot;es-cr&quot;&gt;si quiere limpiar la pantalla, le da CLR&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;" />
+	<TextNote TextNoteId="aebff37c-cb14-45c1-aa51-4f2506ce6f20" LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" X="5" Y="3" Width="31" Height="5" Note="&lt;FlowDocument PagePadding=&quot;5,0,5,0&quot; AllowDrop=&quot;True&quot; NumberSubstitution.CultureSource=&quot;User&quot; xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;&lt;Paragraph&gt;yara yara&lt;/Paragraph&gt;&lt;Paragraph xml:space=&quot;preserve&quot; /&gt;&lt;/FlowDocument&gt;" />
 </CircuitProject>
