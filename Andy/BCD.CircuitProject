@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="3d4fc8db-a587-4ada-b89c-e0066ba65714" Name="Nombre del proyecto" Zoom="0.9" Frequency="1" LogicalCircuitId="99e5f5dd-14f8-43ec-aa7e-0c9c7d2e664e" />
+	<Project ProjectId="3d4fc8db-a587-4ada-b89c-e0066ba65714" Name="Nombre del proyecto" Zoom="0.9" Frequency="1" LogicalCircuitId="80a803a9-16ed-4cf2-9aa4-1baa57e86fa8" />
 	<LogicalCircuit LogicalCircuitId="80a803a9-16ed-4cf2-9aa4-1baa57e86fa8" Name="Principal" Notation="Principal" />
-	<LogicalCircuit LogicalCircuitId="a36db530-e11a-4636-94d0-567dc1957271" Name="Decodificador binario a decimal" Notation="Deco bi-&gt;dec" Category="Decodificadores" />
+	<LogicalCircuit LogicalCircuitId="a36db530-e11a-4636-94d0-567dc1957271" Name="Abominación" Notation="nada" Category="Decodificadores" />
 	<LogicalCircuit LogicalCircuitId="d3ceda42-75f8-41e0-8348-1f6557f4af73" Name="decodificador 4 pines a 16" Notation="deco 4-&gt;16" Category="Decodificadores" />
 	<LogicalCircuit LogicalCircuitId="1037ae72-e1ee-4982-a708-25166f03a15d" Name="codificador 10 pines a 4 pines" Notation="Cod 10-&gt;4" Category="Codificadores" />
 	<LogicalCircuit LogicalCircuitId="68c84e70-8ee1-4c08-961b-b71997271943" Name="Codificador 6 pines a 3 pines" Notation="Cod 6-&gt;3" Category="Codificadores" />
