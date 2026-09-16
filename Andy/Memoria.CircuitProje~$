@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="dfca71e5-652a-456f-8fe3-64479732a997" Name="Nombre del proyecto" Zoom="0.6000000000000001" Frequency="1" LogicalCircuitId="952bca8d-c415-4cd5-8448-b1d36507b549" />
+	<Project ProjectId="dfca71e5-652a-456f-8fe3-64479732a997" Name="Nombre del proyecto" Zoom="0.6000000000000001" Frequency="1" LogicalCircuitId="eb62ab47-2952-40c6-851b-d8bddbbbdb8c" />
 	<LogicalCircuit LogicalCircuitId="28f8d810-3f2e-45ca-8d89-8a4541acab5f" Name="Principal" Notation="Principal" />
 	<LogicalCircuit LogicalCircuitId="a2886651-3853-446d-ad03-6b3468e86c88" Name="latch SR" Notation="L-SR" />
 	<LogicalCircuit LogicalCircuitId="cf3e813a-5846-4549-9dd3-71eaeeb71295" Name="Latch SR+E" Notation="L-SR+E" />
@@ -288,18 +288,18 @@
 	<Pin PinId="0252a6aa-adda-409b-ab45-ab305c9f4aeb" CircuitId="166d4ef6-8a7f-4ef4-a6a2-9a56fa991ec5" PinType="Output" PinSide="Right" Name="x7" />
 	<Pin PinId="36731417-9344-4d54-aa8d-1cb9b5039484" CircuitId="57890d29-a761-45e3-8afe-3a8df77d86f4" Name="W" />
 	<Pin PinId="2df9e79e-aeff-44d6-9e3b-7737c1618ff8" CircuitId="57890d29-a761-45e3-8afe-3a8df77d86f4" Name="Gato" />
-	<Pin PinId="9c4b8d80-a997-4375-a03c-8ab23289330c" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X" />
-	<Pin PinId="fe09ffc5-6641-4cb1-a166-5cd235fba6bb" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X1" />
-	<Pin PinId="9e35b308-b349-43cb-a2cd-ef1cbc196faa" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X2" />
-	<Pin PinId="9e551bcf-a16d-4a2a-bd28-baaa53b2226a" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X3" />
-	<Pin PinId="e33179c4-b033-41ae-8d57-363dc7d33a9f" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X4" />
-	<Pin PinId="9f6c473f-2460-49f5-9a7f-acfef4c10bf3" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X5" />
-	<Pin PinId="b48158b3-ad96-49dd-abb5-b18e8e6a9b15" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X6" />
-	<Pin PinId="567c623d-1d4f-4a18-a64e-a461f9e81260" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X7" />
-	<Pin PinId="cdb31036-615e-4aa2-9c8f-64b64967a8f0" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S" />
-	<Pin PinId="5e154179-5e08-4e96-9652-306fd8feca35" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S1" />
-	<Pin PinId="b2b9ff16-33a1-48df-a782-83f582cf89a0" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S2" />
-	<Pin PinId="32d6fdf8-356a-407f-946b-a566089accda" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinType="Output" PinSide="Right" Name="Q" />
+	<Pin PinId="9c4b8d80-a997-4375-a03c-8ab23289330c" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X" JamNotation="X" />
+	<Pin PinId="fe09ffc5-6641-4cb1-a166-5cd235fba6bb" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X1" JamNotation="X1" />
+	<Pin PinId="9e35b308-b349-43cb-a2cd-ef1cbc196faa" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X2" JamNotation="X2" />
+	<Pin PinId="9e551bcf-a16d-4a2a-bd28-baaa53b2226a" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X3" JamNotation="X3" />
+	<Pin PinId="e33179c4-b033-41ae-8d57-363dc7d33a9f" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X4" JamNotation="X4" />
+	<Pin PinId="9f6c473f-2460-49f5-9a7f-acfef4c10bf3" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X5" JamNotation="X5" />
+	<Pin PinId="b48158b3-ad96-49dd-abb5-b18e8e6a9b15" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X6" JamNotation="X6" />
+	<Pin PinId="567c623d-1d4f-4a18-a64e-a461f9e81260" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" Name="X7" JamNotation="X7" />
+	<Pin PinId="cdb31036-615e-4aa2-9c8f-64b64967a8f0" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S" JamNotation="S" />
+	<Pin PinId="5e154179-5e08-4e96-9652-306fd8feca35" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S1" JamNotation="S1" />
+	<Pin PinId="b2b9ff16-33a1-48df-a782-83f582cf89a0" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinSide="Top" Name="S2" JamNotation="S2" />
+	<Pin PinId="32d6fdf8-356a-407f-946b-a566089accda" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" PinType="Output" PinSide="Right" Name="Q" JamNotation="Q" />
 	<Pin PinId="612d9a60-1137-4da1-a5d9-44c86befe243" CircuitId="ceb18de9-1ffd-4fd9-9ff2-c9f53acd7c8d" Name="x" />
 	<Pin PinId="3d3c1178-d434-478d-8a0c-2a67344cd3a0" CircuitId="2dbad5c7-0965-4280-a8f2-eec46b2e1b25" BitWidth="8" Name="X" />
 	<Pin PinId="96944f69-a15a-4867-bea1-fcf814be1a9a" CircuitId="2dbad5c7-0965-4280-a8f2-eec46b2e1b25" BitWidth="8" Name="X1" />
@@ -1088,6 +1088,7 @@
 	<CircuitSymbol CircuitSymbolId="c16839ee-22f0-41c2-bf5b-24c42c0fd599" CircuitId="55be9722-2077-4ec8-9a63-2784712011e2" LogicalCircuitId="57890d29-a761-45e3-8afe-3a8df77d86f4" X="14" Y="39" />
 	<CircuitSymbol CircuitSymbolId="9176f6f0-5a83-4b9a-9cf8-49affdf689db" CircuitId="55be9722-2077-4ec8-9a63-2784712011e2" LogicalCircuitId="57890d29-a761-45e3-8afe-3a8df77d86f4" X="80" Y="122" />
 	<CircuitSymbol CircuitSymbolId="e42f8b08-b13f-4666-8026-19f815a4204e" CircuitId="13cd3885-640b-4dc6-8869-0291a8416504" LogicalCircuitId="57890d29-a761-45e3-8afe-3a8df77d86f4" X="83" Y="122" />
+	<CircuitSymbol CircuitSymbolId="eb37171a-9753-4fee-92e9-f6d4c2b86d7e" CircuitId="0116cb53-9192-4674-a364-01f78fe76fb3" LogicalCircuitId="eb62ab47-2952-40c6-851b-d8bddbbbdb8c" X="22" Y="46" />
 	<Wire WireId="d4253e93-265c-4e2d-b51f-a829c24ef075" LogicalCircuitId="cf3e813a-5846-4549-9dd3-71eaeeb71295" X1="15" Y1="23" X2="16" Y2="23" />
 	<Wire WireId="e0104556-d61e-4285-9f8d-92923be706fb" LogicalCircuitId="cf3e813a-5846-4549-9dd3-71eaeeb71295" X1="18" Y1="21" X2="16" Y2="22" />
 	<Wire WireId="9801df26-e21f-4b38-8dc1-b814b1f38f0a" LogicalCircuitId="cf3e813a-5846-4549-9dd3-71eaeeb71295" X1="16" Y1="18" X2="16" Y2="17" />
