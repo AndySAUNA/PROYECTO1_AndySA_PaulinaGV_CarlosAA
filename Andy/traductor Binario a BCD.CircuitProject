@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="1.1" Frequency="1" LogicalCircuitId="7e6bcd74-db49-4a65-a088-95eb6803c2f5" />
+	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="1.1" Frequency="1" LogicalCircuitId="61f384c9-4e2a-41a4-bb3c-b2ac7c191718" />
 	<CollapsedCategory Name="Celdas de memoria 2" />
-	<CollapsedCategory Name="Adicionales" />
 	<CollapsedCategory Name="Pantallas" />
 	<CollapsedCategory Name="Mezclador" />
 	<CollapsedCategory Name="Decodificadores" />
