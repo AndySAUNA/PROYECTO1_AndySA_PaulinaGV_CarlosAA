@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="a7c0148d-8065-4934-807e-3d502964fc91" Name="Nombre del proyecto" Zoom="1.4000000000000004" LogicalCircuitId="4974890f-8706-4263-955c-319007ad8a6b" />
+	<Project ProjectId="a7c0148d-8065-4934-807e-3d502964fc91" Name="Nombre del proyecto" Zoom="1.1" LogicalCircuitId="b1fc36e6-b300-469a-b23f-c6a5868b61cd" />
 	<LogicalCircuit LogicalCircuitId="b1fc36e6-b300-469a-b23f-c6a5868b61cd" Name="Principal" Notation="Principal" />
 	<LogicalCircuit LogicalCircuitId="73ceaa84-f64a-41b6-a219-1fa236e4b933" Name="Prueba Pantalla" Notation="Prueba Pantalla" />
 	<LogicalCircuit LogicalCircuitId="d4ab1cc0-8d37-4b0e-9188-207a611698ae" Name="Celda 64 bits" Notation="C64b" Category="Celdas de memoria" />
@@ -768,6 +768,7 @@
 	<CircuitSymbol CircuitSymbolId="39ffd0e0-b96f-4a1f-afef-f91e62aedc86" CircuitId="b2168348-fb54-4fa4-a800-e20decb73218" LogicalCircuitId="ca44fbff-babd-45b3-b36d-281f190f368b" X="31" Y="23" />
 	<CircuitSymbol CircuitSymbolId="02acd434-c85c-460b-81a0-f0c6dc004fc5" CircuitId="b2d0047c-1c61-4e38-a095-35a7acf35522" LogicalCircuitId="ca44fbff-babd-45b3-b36d-281f190f368b" X="31" Y="39" />
 	<CircuitSymbol CircuitSymbolId="ad09b1ca-41bd-4df2-ae20-94eb87650a8a" CircuitId="ca44fbff-babd-45b3-b36d-281f190f368b" LogicalCircuitId="b1fc36e6-b300-469a-b23f-c6a5868b61cd" X="11" Y="8" />
+	<CircuitSymbol CircuitSymbolId="ba9c0167-7a4d-46ac-86f8-d83e159ef9e4" CircuitId="dcb98bc3-4939-4bd5-8e87-9de99955b0b6" LogicalCircuitId="b1fc36e6-b300-469a-b23f-c6a5868b61cd" X="13" Y="22" />
 	<Wire WireId="f96afbf4-ed53-46f8-aa3c-a10519d4a6db" LogicalCircuitId="9aa8384c-d999-412e-ba85-ecf5c509c5d4" X1="13" Y1="18" X2="14" Y2="18" />
 	<Wire WireId="2b378451-fb8a-4a38-9cb7-498b5cd67f12" LogicalCircuitId="9aa8384c-d999-412e-ba85-ecf5c509c5d4" X1="15" Y1="12" X2="13" Y2="12" />
 	<Wire WireId="cf857f7a-317d-49c7-99b0-fdacc8f7d62f" LogicalCircuitId="9aa8384c-d999-412e-ba85-ecf5c509c5d4" X1="13" Y1="7" X2="13" Y2="5" />
