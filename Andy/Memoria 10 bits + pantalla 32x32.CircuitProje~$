@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="0.8" Frequency="50" LogicalCircuitId="f7e4826b-282d-4917-9531-571ed0ac95d1" />
+	<Project ProjectId="9628510e-cb5f-42ae-b578-6d812e9a402d" Name="Nombre del proyecto" Zoom="0.6000000000000001" Frequency="50" LogicalCircuitId="f7e4826b-282d-4917-9531-571ed0ac95d1" />
 	<CollapsedCategory Name="Decodificadores" />
 	<CollapsedCategory Name="Codificador" />
 	<CollapsedCategory Name="Avance" />
